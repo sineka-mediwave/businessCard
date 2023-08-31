@@ -4,3 +4,18 @@
 
 -> Added the image src file and alt attribute
 -> reduced the size of the image using width attribute
+
+# 2. Flex item container
+
+```
+.card {
+    display: flex;
+    border: 1px dotted rgb(15, 15, 48);
+    padding: 20px;
+}
+
+.content {
+    display: flexbox;
+}
+
+```

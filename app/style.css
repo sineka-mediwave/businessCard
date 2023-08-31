@@ -4,9 +4,15 @@ body {
 
 .avatar {
     width: 150px;
+    margin: 20PX;
 }
 
 .card {
+    display: flex;
     border: 1px dotted rgb(15, 15, 48);
     padding: 20px;
+}
+
+.content {
+    display: flexbox;
 }

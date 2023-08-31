@@ -22,4 +22,9 @@
 
 ## 3. Justify the content
 
-center the elements.
+center the text elements.
+
+## 4. add colors
+
+-> background color for the card
+-> border-bottom color for style

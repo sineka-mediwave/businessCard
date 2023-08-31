@@ -1,5 +1,7 @@
 body {
     margin: 20px;
+    border: 1px dotted rgb(15, 15, 48);
+
 }
 
 .avatar {
@@ -8,11 +10,16 @@ body {
 }
 
 .card {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
     display: flex;
-    border: 1px dotted rgb(15, 15, 48);
-    padding: 20px;
+    justify-content: space-around;
+    padding: 10px;
 }
 
 .content {
     display: flexbox;
+    border: 1px dotted rgb(15, 15, 48);
+
 }

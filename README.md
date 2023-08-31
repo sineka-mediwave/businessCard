@@ -28,3 +28,5 @@ center the text elements.
 
 -> background color for the card
 -> border-bottom color for style
+
+## 5. responsive web

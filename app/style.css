@@ -25,3 +25,13 @@ body {
 .content {
     display: flexbox;
 }
+
+@media screen and (max-width: 400px) {
+    .content {
+        display: block;  
+    }
+
+    .card{
+        display: block;
+    }
+}
